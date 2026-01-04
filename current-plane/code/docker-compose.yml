@@ -1,0 +1,3 @@
+# Placeholder compose file.
+# Run `node update.js` from the repo root to fetch Plane's self-host files.
+services: {}
